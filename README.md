@@ -29,7 +29,7 @@ accessible to users.
 This approach leverages the power of Python and its numerous libraries to extract,
 transform, and analyze data, and to create a user-friendly dashboard for visualizing
 the insights obtained from the data.
-Conclusion:
+7. Conclusion:
 The result of this project will be a live geo visualization dashboard that displays
 information and insights from the Phonepe pulse Github repository in an interactive
 and visually appealing manner. 
